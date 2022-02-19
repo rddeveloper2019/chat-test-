@@ -9,6 +9,4 @@ if (process.env.NODE_ENV !== 'production') {
   localStorage.debug = 'chat:*';
 }
 
-
-
 console.log('it works!');
